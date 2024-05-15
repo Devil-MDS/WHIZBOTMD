@@ -12,13 +12,13 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/WHIZBOT1/WHIZBOTMD";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/95ce6ad6559693eba92d2.jpg";
+global.github = process.env.GITHUB || "wa.me/923119416058";
+global.gurl = process.env.GURL || "https://whatsapp.com/ch3LdQOmWZrBj0l";
+global.website = process.env.GURL || "https://Sl3LdQOmWZrBj0l";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fd920a20d7533a993da5a.jpg";
 global.devs = "18763351213";
-global.sudo = process.env.SUDO || "18763351213";
-global.owner = process.env.OWNER_NUMBER || "18763351213";
+global.sudo = process.env.SUDO || "923119416058";
+global.owner = process.env.OWNER_NUMBER || "923119416058";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -47,10 +47,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX || "",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©️ 𝛲𝛩𝑊𝛯𝑅𝐷 𝐵𝑌 𝑊𝛨𝛪𝛧𝐵𝛩𝑇-𝛭𝐷",
-  author: process.env.PACK_AUTHER || "WHIZBOT-ᴍᴅ",
+  caption: process.env.CAPTION || "©️ 𝛲𝛩𝑊𝛯𝑅𝐷 𝐵𝑌 DĒvÍL-𝛭𝐷",
+  author: process.env.PACK_AUTHER || "Devil-ᴍᴅ",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "WHIZBOT-MD",
+  botname: process.env.BOT_NAME || "Devil-MD",
   ownername: process.env.OWNER_NAME || "JAY BOTS",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
